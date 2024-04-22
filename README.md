@@ -1,2 +1,2 @@
-# MollyC98.github.io
-DCART 498 Project Showcase 
+# Website for Vytautas Bucionis 
+DCART 498 Project by Mollika Chakraborty and Alexander MacKinnon
